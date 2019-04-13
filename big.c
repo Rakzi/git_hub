@@ -1,5 +1,5 @@
 #include <stdio.h>
-print ("hello\n")
+print ("hello\n");
 big()
 {
     double n1, n2, n3;
