@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+print ("hello\n");
 fact()
 {
   int c, n, fact = 1;
