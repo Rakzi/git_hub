@@ -1,5 +1,4 @@
 #include <stdio.h>
-print ("hello\n");
 print ("how are you\n");
 big()
 {
